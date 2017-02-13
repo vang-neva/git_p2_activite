@@ -1,0 +1,4 @@
+<?
+//deuxième fichier
+php phpinfo();
+?>
